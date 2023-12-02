@@ -1,2 +1,4 @@
 # Machine-Learning-Project
-This Project contains the final Report, The code of the project and the entire zip file 
+This Project contains the Final Report named as ML_Project.pdf.
+The code of the project which is named as Project(2).pynb and 
+the entire zip file of the project which is named as Project.zip
